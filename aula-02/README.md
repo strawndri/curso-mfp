@@ -2,11 +2,11 @@
 
 ## índice
 
-- [Ordenação](ordenação)
-- [Problemas gulosos (mais básicos)](problemas-gulodos-mais-básicos)
-- [Problemas ad-hoc](problemas-ad-hoc)
-- [Estruturas do C++](estruturas-do-c++)
-- [Questões recomendadas](questões-recomendadas)
+- [Ordenação](#ordenação)
+- [Problemas gulosos (mais básicos)](#problemas-gulosos-mais-básicos)
+- [Problemas ad-hoc](#problemas-ad-hoc)
+- [Estruturas do C++](#estruturas-do-c)
+- [Questões recomendadas](#questões-recomendadas)
 
 ## Ordenação
 
