@@ -17,10 +17,10 @@ Two Pointers (ou dois ponteiros) é uma técnica usada em algoritmos para resolv
 
 ## Questões recomendadas
 
-![A. Merging Arrays](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A)
-![B. Number of Smaller](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B)	
-![C. Number of Equal](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C)	
-![Sum of Two Values](https://cses.fi/problemset/task/1640)
-![A. Segment with Small Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A)
-![B. Segment with Big Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B)
+- [A. Merging Arrays](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A)
+- [B. Number of Smaller](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B)	
+- [C. Number of Equal](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C)	
+- [Sum of Two Values](https://cses.fi/problemset/task/1640)
+- [A. Segment with Small Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A)
+- [B. Segment with Big Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B)
 
