@@ -12,7 +12,8 @@ int main() {
         cin >> v[i];
     }
 
-    pref[0] = v[0];
+    pref[0] = 0;
+    
     long long max_subarray_sum = pref[0];
 
     for (long i = 1; i < n; i++) {
